@@ -1,0 +1,37 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+.canva{
+  background-color: #5CD2E6;
+  width:1488px;
+  
+}
+
+.offcanvas-body{
+  background-color: #5CD2E6;
+}
+
+.HWH{
+  display:inline-block;
+  width:200px;
+  height:100px;
+
+  border-radius: 10px;
+  background-color: #5CD2E6;
+  position:relative;
+  top:50px;
+  left:50px;
+}
+
+.csmt{
+  color:#5CD2E6;
+}
+
+.body{
+  background-color:#141E46;
+  width:1488px;
+  height:685.8px;
+}
